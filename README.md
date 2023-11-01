@@ -408,6 +408,7 @@ plt.yticks( # y-ticks
 - IBM Cognos users interested in improving their visualization skills.
 This project was a collaborative effort involving the following team members and contributors:
 **Sample**
+![image](https://github.com/pandimugundesh/DAC_Phase1/assets/146209549/6a589496-d90d-4a91-8495-fb11fdf74495)
 
 ## Project Contributors
 
