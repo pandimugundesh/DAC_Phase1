@@ -186,7 +186,7 @@ Ensure that you have the following prerequisites installed on your system:
 You can start by cloning this repository to your local machine using Git:
 
 
-git clone https://github.com/Prabukl/DAC_Phase1
+git clone https://github.com/pandimugundesh/DAC_Phase1
 ### Step 2: Install Required Libraries
 In your Python environment, install the necessary   
 libraries by running the following command:
