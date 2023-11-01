@@ -352,6 +352,7 @@ plt.yticks( # y-ticks
 ```
 
 ## Creating Visualizations in IBM Cognos
+![image](https://github.com/pandimugundesh/DAC_Phase1/assets/146209549/ddc7ef9f-b4ad-4a78-ac24-05e1a135e3c8)
 
 ### Table of Contents
 
